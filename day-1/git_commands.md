@@ -9,3 +9,9 @@ git add => add files to staging area
 
 3- Git Commit 
  git commit ==> commit changes to local repo
+
+4- Git Push
+ git push <remote_name> <branch_name> or git push -u origin master
+ 
+
+
