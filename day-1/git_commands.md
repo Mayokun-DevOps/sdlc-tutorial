@@ -12,6 +12,16 @@ git add => add files to staging area
 
 4- Git Push
  git push <remote_name> <branch_name> or git push -u origin master
+to point our local repository to github =>
+ git remote add origin https://github.com/Mayokun-DevOps/sdlc-tutorial.git
+
+ initialize our current base branch to master or main: 'git branch -M master or main'
+
+ to push our local repo to github => 'git push -u origin main'
+
+ git add .
+ git commit -m "commit message"
+ git push
  
 
 
