@@ -19,9 +19,21 @@ to point our local repository to github =>
 
  to push our local repo to github => 'git push -u origin main'
 
- git add .
- git commit -m "commit message"
- git push
+ <! Git pull > <to pull chnages from GitHub>
+   pull changes from the Github to the Local Repo
+
+<!----- Branching >
+  ## A branch is a new/separate version of the maib Repo
+ 'git branch => show all branches
+
+' git branch <branch_name> ' => create a new branch 
+
+
+
+
+
  
+
+
 
 
